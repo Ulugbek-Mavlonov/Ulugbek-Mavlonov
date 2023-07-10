@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif?cid=ecf05e47irdp3yifjx5so3wp1nkbx2r2xkfaz7ylpl05vn7a&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g" alt="vonheldenundgestalten it matrix screen programming GIF" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
+<img src="https://media2.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif?cid=ecf05e47irdp3yifjx5so3wp1nkbx2r2xkfaz7ylpl05vn7a&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g" alt="vonheldenundgestalten it matrix screen programming GIF" style=" height: 500px; left: 0px; top: 0px; opacity: 0;">
 
 
 <h1 align="center">Hi 👋, I'm Ulug'bek Mavlonov</h1>
