@@ -1,6 +1,4 @@
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e470y6x4hbxncup1ijtcdj5m30oh14qfv7wm6gyk5mb&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Looney Tunes GIF by Looney Tunes World of Mayhem" style="width: 500px; height: 281.25px; opacity: 0; left: 0px; top: 0px;">
-<h1 align="center">Hi 👋, I'm Ulug'bek Mavlonov</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<img src="https://media3.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47fn1lodjotaznnj91mnds54zydjd02y4pl2hxlraq&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g" alt="Loop Glitch GIF by Psyklon" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulugbek-mavlonov&label=Profile%20views&color=0e75b6&style=flat" alt="ulugbek-mavlonov" /> </p>
 
